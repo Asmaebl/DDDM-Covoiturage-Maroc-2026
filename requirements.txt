@@ -1,0 +1,27 @@
+# ============================================================
+# PROJET DDDM — Viabilité du modèle prix fixe au Maroc face à inDrive
+# À compléter par Coéquipier B avec les librairies Phase 4-5-6
+# ============================================================
+
+# Data manipulation
+pandas==2.2.2
+numpy==1.26.4
+
+# Visualisation
+matplotlib==3.8.4
+seaborn==0.13.2
+
+# Statistiques & Machine Learning
+scipy==1.13.0
+scikit-learn==1.4.2
+
+# Jupyter
+notebook==7.2.0
+ipykernel==6.29.4
+
+# À ajouter par Coéquipier B :
+# xgboost==2.0.3
+# shap==0.45.0
+# plotly==5.22.0
+# dash==2.17.0  (ou streamlit==1.35.0)
+# optuna==3.6.1
