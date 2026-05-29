@@ -172,7 +172,7 @@ Les graphiques sont sauvegardés automatiquement dans `/assets/`.
 
 ## Principaux résultats (Phases 1–3)
 
-- **236 003 lignes** brutes collectées — exigence 50 000 min ✅
+- **236 003 lignes** brutes collectées — exigence 50 000 min
 - **4 tests statistiques** : t-test, ANOVA, Chi-deux, Mann-Whitney
 - **5 segments** d'utilisateurs identifiés par K-Means
 - **Insight clé :** 40% des utilisateurs (segments Économiques) sont sensibles au prix et risquent de rejeter le modèle prix fixe — cibles prioritaires pour une stratégie d'adaptation tarifaire au Maroc
