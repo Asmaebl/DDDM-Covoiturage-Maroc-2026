@@ -183,4 +183,3 @@ Les graphiques sont sauvegardés automatiquement dans `/assets/`.
 
 - [Kaggle — Uber Fares Dataset](https://www.kaggle.com/datasets/yasserh/uber-fares-dataset)
 - [HCP Maroc — Open Data](https://www.hcp.ma)
-- [Anthropic Claude — aide à l'analyse](https://claude.ai)
