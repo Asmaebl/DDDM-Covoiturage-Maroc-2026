@@ -1,7 +1,6 @@
 # Viabilité du modèle prix fixe au Maroc face à inDrive — Projet DDDM
 
 > **Module :** Data-Driven Decision Making  
-> **Deadline :** 07 Juin 2026  
 
 ---
 
@@ -11,25 +10,16 @@
 
 ---
 
-## Équipe & Répartition
-
-| Membre | Phases | Responsabilité |
-|--------|--------|----------------|
-| Coéquipier A | 1 · 2 · 3 | Cadrage · Données · EDA |
-| Coéquipier B | 4 · 5 · 6 | Modélisation · Dashboard · Décision |
-
----
-
 ## Structure du projet
 
 ```
 projet-dddm-prix-fixe-maroc/
 │
-├── README.md                        ← Ce fichier
+├── README.md                        
 ├── requirements.txt                 ← Dépendances Python
 │
 ├── notebooks/
-│   └── DDDM_Projet.ipynb           ← Notebook complet (6 phases)
+│   └── DDDM_Projet.ipynb           ← Notebook complet 
 │
 ├── data/
 │   ├── uber_final.csv              ← Dataset prix fixe nettoyé (182 136 lignes)
@@ -47,7 +37,7 @@ projet-dddm-prix-fixe-maroc/
 │   ├── eda_09_clusters_visualisation.png
 │   └── eda_10_saisonnalite.png
 │
-└── dashboard/                       ← Application interactive (Coéquipier B)
+└── dashboard/                       ← Application interactive 
     ├── app.py
     └── ...
 ```
@@ -87,7 +77,7 @@ pip install -r requirements.txt
 jupyter notebook notebooks/DDDM_Projet.ipynb
 ```
 
-### 5. Lancer le dashboard (Coéquipier B)
+### 5. Lancer le dashboard 
 
 ```bash
 # Streamlit
